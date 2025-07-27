@@ -7,7 +7,7 @@ Olá, me chamo Francisco Emerson, tenho 19 anos e atualmente estou cursando grad
 
 <h3><center><b>Linguagens utilizadas</b></center><h3>
 
-<div style="display: flex; justify-content: center; align-items: center; gap: 40px;">
+<div style="display: flex; justify-content: center; align-items: center; gap: 10vw;">
     <img
         src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"
         alt = "C"
@@ -35,7 +35,7 @@ Olá, me chamo Francisco Emerson, tenho 19 anos e atualmente estou cursando grad
 </div>
 
 <h3><center><b>Programas utilizadoss</b></center><h3>
-<div style="display: flex; justify-content: center; align-items: center; gap: 40px;">
+<div style="display: flex; justify-content: center; align-items: center; gap: 10vw;">
 <img
         src = "https://raw.githubusercontent.com/Hemersom/assets/refs/heads/main/csp.svg"
         alt = "Clip Studio Paint"
@@ -63,6 +63,7 @@ Olá, me chamo Francisco Emerson, tenho 19 anos e atualmente estou cursando grad
 </div>
 
 ## Meus Status
-![Hemerson's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hemersom&show_icons=true&theme=synthwave&locale=pt-br)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hemersom&layout=compact&theme=synthwave&locale=pt-br)
+![Fr-Emerson's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fr-Emerson&show_icons=true&theme=synthwave&locale=pt-br)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fr-Emerson&layout=compact&theme=synthwave&locale=pt-br)
