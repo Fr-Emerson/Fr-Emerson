@@ -1,7 +1,7 @@
 ## EMERSON
 
 ---
-Olá, me chamo Francisco Emerson, tenho 19 anos e atualmente estou cursando graduação em Ciências da Computação no IFMA. Além de programação, também tenho interesse em character design e modelagem 3D.
+Olá, me chamo Francisco Emerson, tenho 19 anos e atualmente estou cursando graduação em Ciências da Computação no IFMA - Campus Caxias. Além de programação, também tenho interesse em character design e modelagem 3D.
 
 ---
 
