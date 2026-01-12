@@ -13,3 +13,6 @@ Olá, me chamo Francisco Emerson, tenho 19 anos e atualmente estou cursando grad
 ## Meus Status
 [![GitHub Streak](https://github-readme-streak-stats-beta-seven.vercel.app?user=Fr-Emerson&theme=synthwave&hide_border=true&locale=pt_BR&short_numbers=true)](https://git.io/streak-stats)
 ---
+![Fr-Emerson's GitHub stats](https://github-readme-stats-pi-nine-49.vercel.app/api?username=Fr-Emerson&show_icons=true&theme=synthwave&locale=pt-br&cache_seconds=86400&v=1)
+---
+![Top Langs](https://github-readme-stats-pi-nine-49.vercel.app/api/top-langs/?username=Fr-Emerson&theme=synthwave&locale=pt-br&cache_seconds=86400&v=1)
